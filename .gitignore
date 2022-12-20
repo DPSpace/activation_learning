@@ -1,0 +1,14 @@
+*.xml
+.idea/*
+.idea/*.xml
+*.swp
+*.un~
+*~
+*data/
+*model/
+*log/
+*venv/
+*/__pycache__/
+*/*/__pycache__/
+__pycache__/
+config/config.py
