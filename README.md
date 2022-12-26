@@ -1,6 +1,6 @@
 # Activation Learning
 
-This project implements activation learning ([https://arxiv.org/abs/2209.13400](https://arxiv.org/abs/2209.13400)) on the MNIST and CIFAR-10 datasets.
+This project implements activation learning ([paper](https://faculty.sdu.edu.cn/_resources/group1/M00/00/3E/CgECYWOooiCABL7_ACrVsqhhhPI965.pdf)) on the MNIST and CIFAR-10 datasets.
 Activation learning supports bottom-up unsupervised learning based on a simple local learning rule. In activation learning, the output activation (sum of the squared output) of the neural network estimates the likelihood of the input patterns, or ``learn more,
 activate more" in simpler terms.
 
